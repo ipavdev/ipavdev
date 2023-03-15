@@ -29,7 +29,7 @@
 
 <br clear="both">
 
-![](https://komarev.com/ghpvc/?username=sysadminmaster)
+![](https://komarev.com/ghpvc/?username=sysadminmaster)<br>
 Hi, I'm a 15-year-old high school student who has been coding for four years. I am currently focusing all my projects on Python as I plan to be a Python developer. In addition to this, I have also done Code-for-Hire for two years to earn some income. Alongside that, I have worked on system administration and backend development for multiple game cheats. I also have three years of networking knowledge, with a focus on Layers 1, 4, and 7. With this knowledge, I have been able to provide many people with protection against DDoS attacks.
 
 ###
