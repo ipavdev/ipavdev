@@ -30,6 +30,7 @@
 <br clear="both">
 
 ![](https://komarev.com/ghpvc/?username=sysadminmaster)<br>
-Hi, I'm a 16-year-old high school student who has been coding for four years. In addition to this, I have also done Code-for-Hire for two years to earn some income. Alongside that, I have worked on system administration and backend development. I also have three years of networking knowledge, with a focus on Layers 1, 4, and 7. With this knowledge, I have been able to provide many people with protection against DDoS attacks.
+
+Hello! I'm a 16-year-old student with more than four years of experience in coding, as well as in system administration and network security. My current specialization is in Java development, particularly for Minecraft. I'm open to full-time development roles on Minecraft servers or to work on a pay-per-plugin basis. Contact me on Discord: ".ipav."
 
 ###
