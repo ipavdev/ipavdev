@@ -1,5 +1,6 @@
 
-## 🌐 Socials:
+[![wakatime](https://wakatime.com/badge/user/a3579bdd-964b-428f-8e27-0ff7baac0d35.svg)](https://wakatime.com/@a3579bdd-964b-428f-8e27-0ff7baac0d35)
+
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/ipavdev) 
 
 # 💻 Tech Stack:
